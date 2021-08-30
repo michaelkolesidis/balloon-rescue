@@ -1,3 +1,8 @@
+// ===============
+// Balloon Rescue
+// Version: 0.0.1
+// ===============
+
 Roof roof;               // One roof object  
 Timer timer;             // One timer object
 Balloon[] balloons;       // An array of balloon objects
